@@ -6,6 +6,7 @@
 ╚██████╗██║██║     ██║  ██║███████╗   ██║
 https://github.com/Ciphey
 https://github.com/Ciphey/Ciphey/wiki
+https://github.com/tucommenceapousser/Ciphey
 
 The cycle goes:
 main -> argparsing (if needed) -> call_encryption -> new Ciphey object -> decrypt() -> produceProbTable ->
@@ -139,6 +140,7 @@ def main(**kwargs):
     http://discord.skerritt.blog\n
     GitHub:
     https://github.com/ciphey/ciphey\n
+    trhacknon's modz
 
     Ciphey is an automated decryption tool using smart artificial intelligence and natural language processing. Input encrypted text, get the decrypted text back.
 
