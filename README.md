@@ -18,7 +18,7 @@ Translations <br>
  ⬅️
 
 <br>
-  <img src="https://github.com/Ciphey/Ciphey/raw/master/Pictures_for_README/binoculars.png" alt="Ciphey">
+  <img src="https://k.top4top.io/p_3545yxolq0.jpg" alt="Ciphey">
 </p>
 
 <p align="center">
